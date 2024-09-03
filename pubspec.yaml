@@ -57,6 +57,18 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+  - assets/images/lake.jpg
+  - assets/images/news.jpeg
+  - assets/images/bangalore.jpeg
+  - assets/images/chennai.jpeg
+  - assets/images/delhi.jpeg
+  - assets/images/hyderabad.jpeg
+  - assets/images/mumbai.jpeg
+  - assets/images/agra.jpeg
+  - assets/images/indore.jpeg
+  - assets/images/pune.jpeg
+  - assets/images/kolkata.jpeg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
